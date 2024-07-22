@@ -9,7 +9,7 @@
     gap: 60px;
 }
 .navbar-brand {
-    margin-left: 7%;
+    margin-left: 10%;
     color: red !important;
     font-weight: bold;
 }
@@ -51,6 +51,10 @@
         background-position: 0% 50%;
     }
 }
+
+ #hero-text{
+    font-family: serif  !important;
+} 
 
 #section{
     background-color: #ef8172;
