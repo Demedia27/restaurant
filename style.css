@@ -136,6 +136,10 @@ p{
    
 }
 
+
+
+
+
 .zoom-effect {
     overflow: hidden !important; /* Ensure the zoomed content doesn't overflow its container */
     transition: transform 0.3s ease !important; /* Smooth transition for the zoom effect */
@@ -252,6 +256,8 @@ input[type=submit]:hover {
     box-shadow: 14px 14px 30px rgba(0, 0, 0, 0.2);
 }
 
+
+
 #hero-image:hover{
   
     background-color: #0a000038 !important;
@@ -297,5 +303,6 @@ input[type=submit]:hover {
         background-image: url(./Asset/Edikang\ ikong\ soup.jpg);
     }
 } */
+
 
  
